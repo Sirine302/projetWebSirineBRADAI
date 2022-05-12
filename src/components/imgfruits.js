@@ -1,0 +1,37 @@
+
+let imgFruits = {
+    "Apple":require("../assets/img/fruits/redapple.png"), 
+    "Apricot":require("../assets/img/fruits/abricot.png"),
+    "Banana":require("../assets/img/fruits/banane2.png"),
+    "Blackberry":require("../assets/img/fruits/blackberry.png"),
+    "Gooseberry":require("../assets/img/fruits/gooseberry.png"),
+    "Blueberry":require("../assets/img/fruits/myrtilles.png"),
+    "Cherry":require("../assets/img/fruits/cerise.png"),
+    "Durian":require("../assets/img/fruits/durian.png"),
+    "Fig":require("../assets/img/fruits/figue.webp"),
+    "Grapes":require("../assets/img/fruits/grape.png"),
+    "GreenApple":require("../assets/img/fruits/pomme2.png"),
+    "Guava":require("../assets/img/fruits/guava.png"),
+    "Kiwi":require("../assets/img/fruits/kiwi.png"),
+    "Lemon":require("../assets/img/fruits/citron.jpg"),
+    "Lime":require("../assets/img/fruits/lime.jpg"), 
+    "Lingonberry":require("../assets/img/fruits/lingonberry.jpg"), 
+    "Papaya":require("../assets/img/fruits/papaya.png"), 
+    "Lychee":require("../assets/img/fruits/litchi.png"), 
+    "Mango":require("../assets/img/fruits/mangue.png"), 
+    "Melon":require("../assets/img/fruits/melon.webp"),
+    "Orange":require("../assets/img/fruits/orange.png"), 
+    "Passionfruit":require("../assets/img/fruits/passion.jpg"),
+    "Pear":require("../assets/img/fruits/poire.jpg"), 
+    "Persimmon":require("../assets/img/fruits/persimmon.png"), 
+    "Pineapple":require("../assets/img/fruits/Pineapple.jpg"), 
+    "Plum":require("../assets/img/fruits/plum.png"), 
+    "Raspberry":require("../assets/img/fruits/framboise.png"), 
+    "Strawberry":require("../assets/img/fruits/fraise.png"), 
+    "Tomato":require("../assets/img/fruits/tomato.png"), 
+    "Umbu":require("../assets/img/fruits/umbu.png"), 
+    "Watermelon":require("../assets/img/fruits/watermelon.png"), 
+    
+}
+
+export default imgFruits
